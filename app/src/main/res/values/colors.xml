@@ -8,5 +8,8 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="contenido">#3F51B5</color>
-    <color name="TopBar">#1B33AD</color>
+    <color name="fondo2">#1481E2</color>
+    <color name="fondo1">#53C0DE</color>
+    <color name="TopBar">#58CEED</color>
+    <color name="cajas">#67B3EB</color>
 </resources>
